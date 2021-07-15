@@ -15,7 +15,7 @@ The dataset had no odd or missing values resulting in zero data being dropped. W
 - Washington Redskins > Washington Football Team
 - St. Louis Rams > Los Angeles Rams
 
-- 3 primary files: NFL Historical Statistics – Offense; NFL Historical Statistics – Defense; NFL Historical Statistics – Super Bowl Winners
+3 primary files: NFL Historical Statistics – Offense; NFL Historical Statistics – Defense; NFL Historical Statistics – Super Bowl Winners
 
 # Model & Parameter Tuning
 
