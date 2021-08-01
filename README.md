@@ -1,4 +1,4 @@
-# NFL-Predicting a Superbowl Champion
+# NFL - Predicting a Super Bowl Champion
 
 The purpose of this project is to predict the outcome of the 2020 NFL Super Bowl LV winning team using historical regular season team offense and defense statistics. This is a Binary Classification problem as the result of the Super Bowl has two outcomes, win or lose. The goal is to create a linear regression machine learning model that most accurately predicts the winner. 
 
